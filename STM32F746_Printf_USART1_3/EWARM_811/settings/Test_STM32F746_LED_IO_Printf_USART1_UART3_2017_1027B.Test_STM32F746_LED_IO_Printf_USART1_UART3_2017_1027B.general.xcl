@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armstlink2.dll" 
+
+"D:\STUDY_LJH\STM32CubeMX\Open746I-C\Test_STM32F746_Printf_USART1_3\Test_STM32F746_Printf_USART1_3_2017_1104\EWARM_811\Test_STM32F746_LED_IO_Printf_USART1_UART3_2017_1027B\Exe\Test_STM32F746_LED_IO_Printf_USART1_UART3_2017_1027B.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\debugger\ST\STM32F7xx.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\ST\FlashSTM32F74xxG.board" 
+
+
+
+
